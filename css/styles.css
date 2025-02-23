@@ -121,6 +121,10 @@ font-weight: 500;
     background-color: #2e2f42;
     text-align: center;
     padding: 188px 0;
+    background-image: url(/images/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .business-h{
