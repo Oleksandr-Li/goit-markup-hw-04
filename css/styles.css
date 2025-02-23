@@ -128,6 +128,8 @@ font-weight: 500;
     background-image: linear-gradient(
 	  to bottom, rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),
 	  url(/images/hero.jpg);
+    max-width: 1440px;
+    margin: auto;
 }
 
 .business-h{
