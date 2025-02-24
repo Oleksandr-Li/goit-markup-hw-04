@@ -15,7 +15,6 @@ ol {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -144,7 +143,7 @@ margin: 0 auto;
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero.jpg);
+    url(../images/hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -343,6 +342,10 @@ color: #2e2f42;
 margin-bottom: 72px;
 }
 
+.title {
+
+}
+
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
@@ -401,7 +404,6 @@ margin-bottom: 72px;
 
 .footer-container {
   display: flex;
-  gap: 120px;
   align-items: baseline;
 }
 
